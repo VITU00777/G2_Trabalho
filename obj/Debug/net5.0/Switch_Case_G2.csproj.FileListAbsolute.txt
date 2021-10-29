@@ -1,0 +1,16 @@
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\bin\Debug\net5.0\Switch_Case_G2.exe
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\bin\Debug\net5.0\Switch_Case_G2.deps.json
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\bin\Debug\net5.0\Switch_Case_G2.runtimeconfig.json
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\bin\Debug\net5.0\Switch_Case_G2.runtimeconfig.dev.json
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\bin\Debug\net5.0\Switch_Case_G2.dll
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\bin\Debug\net5.0\ref\Switch_Case_G2.dll
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\bin\Debug\net5.0\Switch_Case_G2.pdb
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\obj\Debug\net5.0\Switch_Case_G2.csprojAssemblyReference.cache
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\obj\Debug\net5.0\Switch_Case_G2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\obj\Debug\net5.0\Switch_Case_G2.AssemblyInfoInputs.cache
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\obj\Debug\net5.0\Switch_Case_G2.AssemblyInfo.cs
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\obj\Debug\net5.0\Switch_Case_G2.csproj.CoreCompileInputs.cache
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\obj\Debug\net5.0\Switch_Case_G2.dll
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\obj\Debug\net5.0\ref\Switch_Case_G2.dll
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\obj\Debug\net5.0\Switch_Case_G2.pdb
+C:\projetos\ams\trabalhoG2\Switch_Case_G2\obj\Debug\net5.0\Switch_Case_G2.genruntimeconfig.cache
